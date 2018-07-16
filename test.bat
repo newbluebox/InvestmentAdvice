@@ -1,0 +1,1 @@
+java -jar Tester.jar -exec ".\x64\Release\InvestmentAdvice.exe" -seed 1
